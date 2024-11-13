@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PDAPI",
-            url: "https://github.com/SubvertDev/PDAPI_SPM/releases/download/0.1.0/PDAPI.zip",
-            checksum: "4cf9e5073f331cb4399616c82288414d2a154c7fd1c1ac471cc66af7fec667d2"
+            url: "https://github.com/SubvertDev/PDAPI_SPM/releases/download/0.2.0/PDAPI.zip",
+            checksum: "b5c17e1212f021378b7af9b7521d002876da2e4c183cf9d2924a31e26d51f778"
         )
     ]
 )
